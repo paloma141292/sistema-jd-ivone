@@ -1,0 +1,13 @@
+{
+  "name": "sistema-jd-ivone-portfolio",
+  "version": "15.5.0",
+  "private": true,
+  "description": "Serviço local de compartilhamento do protótipo Sistema JD Ivone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

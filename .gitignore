@@ -1,0 +1,23 @@
+# Dependências
+node_modules/
+
+# Dados locais do protótipo (podem conter dados pessoais e credenciais de teste)
+Backend/banco.json
+Backend/dados-compartilhados.json
+
+# Backups, pacotes e temporários
+Backups/
+LEGADO_NAO_USAR/
+*.zip
+*.log
+.DS_Store
+Thumbs.db
+
+# Editores/IDE
+.vscode/
+.idea/
+
+# Ambiente
+.env
+.env.*
+!.env.example

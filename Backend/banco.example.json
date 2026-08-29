@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nome": "Participante Exemplo 01",
+    "data_nascimento": "2015-05-10",
+    "turma": "Turma Exemplo A",
+    "observacao": "",
+    "visitante": false,
+    "participa_feirinha": true
+  },
+  {
+    "id": 2,
+    "nome": "Participante Exemplo 02",
+    "data_nascimento": "2016-08-22",
+    "turma": "Turma Exemplo A",
+    "observacao": "",
+    "visitante": false,
+    "participa_feirinha": true
+  },
+  {
+    "id": 3,
+    "nome": "Participante Exemplo 03",
+    "data_nascimento": "2012-11-18",
+    "turma": "Turma Exemplo B",
+    "observacao": "",
+    "visitante": false,
+    "participa_feirinha": false
+  }
+]
