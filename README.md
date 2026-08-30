@@ -1,4 +1,5 @@
 # Sistema JD Ivone
+Projeto de Portfólio — Product Management & Inteligência Artificial
 
 ## Plataforma de Gestão de Frequência, Relatórios e Conferência de Processos
 
@@ -16,7 +17,7 @@ O projeto demonstra a aplicação de:
 - definição de regras de negócio;
 - visão de produto;
 - organização de fluxos;
-- utilização de Inteligência Artificial como aceleradora na construção da solução.
+- utilização de Inteligência Artificial como aceleradora na prototipação, validação e evolução do produto.
 
 ---
 
