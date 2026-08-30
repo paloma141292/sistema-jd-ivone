@@ -3,7 +3,7 @@ Projeto de Portfólio — Projeto de Portfólio — Product Management & IA apli
 
 ## Plataforma Web de Gestão de Frequência, Relatórios e Conferência de Processos
 
-Projeto desenvolvido com foco na transformação de processos manuais em uma solução digital organizada, rastreável e orientada a regras de negócio.
+O objetivo foi substituir controles manuais por uma solução digital com maior organização, rastreabilidade e confiabilidade das informações.
 
 ---
 
@@ -21,19 +21,14 @@ O projeto demonstra a aplicação de:
 
 ---
 
-# 🧠 Minha atuação no projeto
+## 👩‍💼 Minha atuação como Product Manager & Product Owner
 
-## Product Manager & Product Owner
-
-Responsável pela condução da visão do produto:
-
-- identificação das necessidades;
-- levantamento e estruturação das regras de negócio;
-- definição de funcionalidades;
-- desenho dos fluxos operacionais;
-- priorização de melhorias;
+- levantamento de necessidades;
+- estruturação das regras de negócio;
+- definição de fluxos;
+- priorização de funcionalidades;
 - validação da experiência do usuário;
-- utilização de IA como ferramenta de apoio à criação e evolução do produto.
+- utilização de IA como aceleradora na construção e evolução da solução.
 
 ---
 
