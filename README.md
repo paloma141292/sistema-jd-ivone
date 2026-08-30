@@ -1,5 +1,5 @@
 # Sistema JD Ivone
-Projeto de Portfólio — Projeto de Portfólio — Product Management & IA aplicada a soluções digitais
+Projeto de Portfólio  — Product Management & IA aplicada a soluções digitais
 
 ## Plataforma Web de Gestão de Frequência, Relatórios e Conferência de Processos
 
@@ -76,14 +76,14 @@ A Inteligência Artificial foi utilizada como ferramenta para:
 
 ---
 
-# 🛠 Tecnologias
+# 🛠 Tecnologias e ferramentas
 
 - JavaScript
 - HTML5
 - CSS3
 - Node.js
 - Git/GitHub
-- Inteligência Artificial aplicada ao desenvolvimento
+- Inteligência Artificial aplicada ao desenvolvimento de soluções
 
 ---
 
