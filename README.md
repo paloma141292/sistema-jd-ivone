@@ -1,5 +1,5 @@
 # Sistema JD Ivone
-Projeto de Portfólio — Product Management & Inteligência Artificial
+Projeto de Portfólio — Projeto de Portfólio — Product Management & IA aplicada a soluções digitais
 
 ## Plataforma de Gestão de Frequência, Relatórios e Conferência de Processos
 
