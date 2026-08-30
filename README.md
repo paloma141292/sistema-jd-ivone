@@ -1,7 +1,7 @@
 # Sistema JD Ivone
 Projeto de Portfólio — Projeto de Portfólio — Product Management & IA aplicada a soluções digitais
 
-## Plataforma de Gestão de Frequência, Relatórios e Conferência de Processos
+## Plataforma Web de Gestão de Frequência, Relatórios e Conferência de Processos
 
 Projeto desenvolvido com foco na transformação de processos manuais em uma solução digital organizada, rastreável e orientada a regras de negócio.
 
